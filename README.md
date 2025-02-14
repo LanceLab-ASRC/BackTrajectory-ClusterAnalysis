@@ -13,11 +13,8 @@ This code uses several packages from the R library:
 - scales
 - tidyverse
 - lubridate
-- vroom
 - tibbletime
 - data.table
-- dplyr
-- purrr
 - splitr
 - openair
 
