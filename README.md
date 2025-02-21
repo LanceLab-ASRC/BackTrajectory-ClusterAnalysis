@@ -10,8 +10,8 @@ This repository houses code that generates HYSPLT back trajectories for each hou
 
 ---
 
-![Back-trajecory Cluster Analysis for CW samples from 2018-2021, using NAM meteorological data](/images/WFM_HYSPLIT_ClusterAnalysis(NAM2018-2021).png)
-
+![Back-trajecory Cluster Analysis for CW samples from 2018-2021, using NAM meteorological data](/images/WFM_HYSPLIT_ClusterAnalysis_NAM2018-2021.png)
+(While the data were processed using the R code in this directory, this map and trajectory heights were plotted with Python)
 ---
 
 ## Code Requirements
